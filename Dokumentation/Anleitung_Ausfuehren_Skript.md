@@ -7,7 +7,7 @@ Für die Installation kann folgende Anleitung unterstützten: [Anleitung](https:
 2.	 Als zweiter Schritt, muss man eine Verbindung zwischen der Konsole und AWS herstellen. Um die Verbindung herzustellen, gibt
 es eine Anleitung unter folgendem Link: [Anleitung](https://gbssg.gitlab.io/m346/lab-awscli/)
 3.	Als dritter Schritt muss das Repository als Zip heruntergeladen werden:
-4.	
+
 ![Zip_Herunterladen_1]( https://github.com/markokokoko/Projekt-Modul-346/blob/main/Bilder/Zip_Herunterladen_1.png)
 ![Zip_Herunterladen_2]( https://github.com/markokokoko/Projekt-Modul-346/blob/main/Bilder/Zip_herunterladen_2.png)
 
