@@ -21,6 +21,6 @@ Cd /mnt/c/users/benutzername/downloads/Projekt346/Projekt346/Code
 
 Um ein Benutzerdefiniertes Bild zu verwenden, muss beim heruntergeladenen Repository im Ordner «Testbild», dass Testbild entfernt werden und durch das gewünschte Bild ersetzt werden. Dadurch wird beim ausführen des Skriptes das Benutzerdefinierte Bild verkleinert.
 
-![Testbild]( https://github.com/markokokoko/Projekt-Modul-346/blob/main/Bilder/Testbild.png)
+![Testbild]( https://github.com/markokokoko/Projekt-Modul-346/blob/main/Bilder/Benutzerdefiniert.png)
 
 Mithilfe dieser Anleitung solltest du nun die Möglichkeit haben mit dem Skript ein beliebiges Bild zu verkleinern. 
