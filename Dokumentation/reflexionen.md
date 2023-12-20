@@ -1,20 +1,15 @@
-# Marko Kojic
+# Reflexionen
+
+
+## <ins>Marko:</ins>
 Probelem mit GIT/ schwer Code herauszufinden/ schwer Zeitplanung wegen anderen Projekten
 
 
 
 
-
-
-
-#Roman Ramsauer
-
+## <ins>Roman:</ins>
 
 
 
 
-
-
-
-
-#Anel Babic
+## <ins>Anel:</ins>
