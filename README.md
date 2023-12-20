@@ -25,5 +25,3 @@ Dieses Repository enthält folgende Hauptordner:
 2.	AWS Bilder: Der Ordner AWS Bilder enthält alle Bilder, welche in dem gesamten Projekt verwendet wurden. (Für Dokumentation, Testbild)
 3.	Dokumentation: Der Ordner Dokumentation enthält alle erstellen Dokumentationen inkl. Reflexionen und Tests.
 4.	Testbild: Im Ordner Testbild ist das Testbild abgelegt, welches am Ende jedes Erstellen hochgeladen und wieder heruntergeladen wird. 
-
-![Test]( https://github.com/markokokoko/Projekt-Modul-346/blob/main/Bilder/Zip_Herunterladen_1.png)
