@@ -4,6 +4,8 @@
 Das ist das erstellte Repository von Ramsauer Roman, Kojic Marko und Babic Anel.
 In diesem Repository handelt es sich um das Projekt im Modul 364 «Cloudlösung konzipieren und realisieren».
 
+Die Anleitung, um das Skript auszühren ist unter: [Dokumentation](https://github.com/markokokoko/Projekt-Modul-346/blob/main/Dokumentation/Anleitung_Ausfuehren_Skript.md) abgelegt.
+
 ## Ziele 
 Die Ziele dieser Projektarbeit sind folgende:
 
