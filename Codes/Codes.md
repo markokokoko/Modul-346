@@ -1,2 +1,2 @@
 ## Codes
-In diesem Ordner sind alle verwendetet und erstellten Skripts abgelegt 
+In diesem Ordner sind alle verwendetet und erstellten Skripts abgelegt.
