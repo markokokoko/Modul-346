@@ -25,11 +25,3 @@ Dieses Repository enthält folgende Hauptordner:
 2.	AWS Bilder: Der Ordner AWS Bilder enthält alle Bilder, welche in dem gesamten Projekt verwendet wurden. (Für Dokumentation, Testbild)
 3.	Dokumentation: Der Ordner Dokumentation enthält alle erstellen Dokumentationen inkl. Reflexionen und Tests.
 4.	Testbild: Im Ordner Testbild ist das Testbild abgelegt, welches am Ende jedes Erstellen hochgeladen und wieder heruntergeladen wird. 
-
-
-## Erste Schritte
-1. Als erstes muss man AWS auf seiner Konsole installieren. Dazu eine Anleitung [hier](https://docs.aws.amazon.com/de_de/cli/latest/userguide/getting-started-install.html)
-2. Dann muss man sich in der Konsole mit AWS verbinden. Dazu eine Anleitung [hier](./Dokumentation/connectToAWS.md).<br>
-2. Dannach muss das Repository entweder mit git geklont oder als Zip herunterladen und entzippt werden.<br>
-3. Zum Schluss nur noch [create.sh](./Code/create.sh) in der Konsole aufrufen.<br>
-Denn Rest erledigt das Skript.
