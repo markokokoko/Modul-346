@@ -3,9 +3,9 @@
 
 Um das Skript auszuführen welches dazu da ist, ein beliebiges Bild zu verkleinern müssen folgende Schritte beachtet werden:
 1.	 Der erste Schritt, welcher notwendig ist um das Skript auszuführen, ist AWS auf der gewünschten Konsole zu installieren. 
-Für die Installation kann folgende Anleitung unterstützten: 
+Für die Installation kann folgende Anleitung unterstützten: [Anleitung](https://gbssg.gitlab.io/m346/lab-awscli/)
 2.	 Als zweiter Schritt, muss man eine Verbindung zwischen der Konsole und AWS herstellen. Um die Verbindung herzustellen, gibt
-es eine Anleitung unter folgendem Link: 
+es eine Anleitung unter folgendem Link: [Anleitung](https://gbssg.gitlab.io/m346/lab-awscli/)
 3.	Als dritter Schritt muss das Repository als Zip heruntergeladen werden:
 4.	
 ![Zip_Herunterladen_1]( https://github.com/markokokoko/Projekt-Modul-346/blob/main/Bilder/Zip_Herunterladen_1.png)
