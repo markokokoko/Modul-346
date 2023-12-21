@@ -4,7 +4,6 @@
 Das ist das erstellte Repository von Ramsauer Roman, Kojic Marko und Babic Anel.
 In diesem Repository handelt es sich um das Projekt im Modul 364 «Cloudlösung konzipieren und realisieren».
 
-Die Anleitung, um das Skript auszühren ist unter [Dokumentation](https://github.com/markokokoko/Projekt-Modul-346/blob/main/Dokumentation/Anleitung_Ausfuehren_Skript.md) abgelegt.
 
 ## Ziele 
 Die Ziele dieser Projektarbeit sind folgende:
@@ -26,4 +25,7 @@ Dieses Repository enthält folgende Hauptordner:
 1.	Code: Der Ordner Code enthält alle Dateien, die für das Erstellen der Buckets nötig sind)
 2.	AWS Bilder: Der Ordner AWS Bilder enthält alle Bilder, welche in dem gesamten Projekt verwendet wurden. (Für Dokumentation, Testbild)
 3.	Dokumentation: Der Ordner Dokumentation enthält alle erstellen Dokumentationen inkl. Reflexionen und Tests.
-4.	Testbild: Im Ordner Testbild ist das Testbild abgelegt, welches am Ende jedes Erstellen hochgeladen und wieder heruntergeladen wird. 
+4.	Testbild: Im Ordner Testbild ist das Testbild abgelegt, welches am Ende jedes Erstellen hochgeladen und wieder heruntergeladen wird.
+
+
+Die Anleitung, um das Skript auszühren ist unter [Dokumentation](https://github.com/markokokoko/Projekt-Modul-346/blob/main/Dokumentation/Anleitung_Ausfuehren_Skript.md) abgelegt.
