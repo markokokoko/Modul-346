@@ -33,11 +33,11 @@ Dies ist der Bucket, in welchem das verkleinerte Bild hochgeladen wird.
 Der Variable Name der Lambda Funktion, kann ebenfalls angepasst werden. 
 
 
-![VariableNow]( ProjektM346/Bilder/VariableNow.png at main · markokokoko/ProjektM346 (github.com)) 
+![VariableNow](https://github.com/markokokoko/ProjektM346/blob/main/Bilder/VariableNow.png) 
 
 Kann zum Beispiel zu folgenden Namen geändert werden, ohne dass es Einfluss auf das Ausführen des Skriptes hat (Ausser die Ausgabe des Skriptes). 
 
-![VariableAfter]( ProjektM346/Bilder/VariableAfter.png at main · markokokoko/ProjektM346 (github.com)) 
+![VariableAfter](https://github.com/markokokoko/ProjektM346/blob/main/Bilder/VariableAfter.png)
 
  
 
