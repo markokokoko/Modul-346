@@ -22,10 +22,10 @@ Sobald ein Bild in das erste Bucket hochgeladen wird, soll automatisch, z.B. üb
 ## Inhalt
 Dieses Repository enthält folgende Hauptordner:
 
-1.	Code: Der Ordner Code enthält alle Dateien, die für das Erstellen der Buckets nötig sind
-2.	AWS Bilder: Der Ordner AWS Bilder enthält alle Bilder, welche in dem gesamten Projekt verwendet wurden. (Für Dokumentation, Testbild)
-3.	Dokumentation: Der Ordner Dokumentation enthält alle erstellten Dokumentationen inkl. Reflexionen und Tests. Die Hauptdokumenation ist [hier](https://github.com/markokokoko/ProjektM346/blob/main/Dokumentation/Hauptdokumentation.md) abgelegt
-4.	Testbild: Im Ordner Testbild ist das Testbild abgelegt, welches am Ende jedes Erstellen hochgeladen und wieder heruntergeladen wird.
+1.	[Code]: Der Ordner Code enthält alle Dateien, die für das Erstellen der Buckets nötig sind
+2.	[AWS Bilder](: Der Ordner AWS Bilder enthält alle Bilder, welche in dem gesamten Projekt verwendet wurden. (Für Dokumentation, Testbild)
+3.	[Dokumentation](https://github.com/markokokoko/ProjektM346/blob/main/Dokumentation/Hauptdokumentation.md): Der Ordner Dokumentation enthält alle erstellten Dokumentationen inkl. Reflexionen und Tests, sowie auch die Hauptdokumentation
+4.	[Testbild]: Im Ordner Testbild ist das Testbild abgelegt, welches am Ende jedes Erstellen hochgeladen und wieder heruntergeladen wird.
 
 
 
