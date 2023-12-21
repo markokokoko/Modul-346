@@ -10,6 +10,7 @@ Werden deine bereits erstellen Buckets etc. angezeigt ist die Verbindung erfolgr
 In diesem Test wird überprüft, ob das Skript vollständig funktioniert:
 
 1.	Download vom Repository als Zip-Datei
+
 ![Zip_herunterladen_1](https://github.com/markokokoko/ProjektM346/blob/main/Bilder/Zip_Herunterladen_1.png)
 
 ![Zip_Herunterladen_2](https://github.com/markokokoko/ProjektM346/blob/main/Bilder/Zip_herunterladen_2.png)
