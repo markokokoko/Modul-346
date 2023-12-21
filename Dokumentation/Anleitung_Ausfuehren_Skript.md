@@ -14,7 +14,7 @@ es eine Anleitung unter folgendem Link: [Anleitung](https://gbssg.gitlab.io/m346
 5.	Als vierter Schritt, muss man nun das File «create.sh» ausführen, wodurch dann die Buckets etc. erstellt werden und das Testbild verkleinert wird. 
 
 Es ist zu beachten, dass man nach dem herunterladen der Datei, die Datei extrahieren muss. Danach wechselt man mithilfe von «cd» in das entsprechende Verzeichnis, indem sich das Skript befindet:
-Cd /mnt/c/users/benutzername/downloads/Projekt346/Projekt346/Code
+#### Cd /mnt/c/users/benutzername/downloads/ProjektM346-main/Projekt346-main/codes
 
 
 ## Benutzerdefiniertes Bild
