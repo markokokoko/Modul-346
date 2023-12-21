@@ -1,7 +1,7 @@
 # Projektarbeit-Modul-346
 
 ## Übersicht 
-Das ist das erstellte Repository von Ramsauer Roman, Kojic Marko und Babic Anel.
+Dieses Repository wurde von Roman Ramsauer, Marko Kojic und Anel Babic als Gruppe erstellt.
 In diesem Repository handelt es sich um das Projekt im Modul 364 «Cloudlösung konzipieren und realisieren».
 
 
