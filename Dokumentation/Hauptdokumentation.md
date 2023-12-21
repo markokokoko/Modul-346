@@ -1,4 +1,4 @@
-## Inhalt 
+ ## Inhalt 
 
 - Anleitung zur Ausführung des Skriptes 
 - Skript benutzerdefiniert anpassen 
@@ -35,7 +35,7 @@ Der Variable Name der Lambda Funktion, kann ebenfalls angepasst werden.
 
 ![VariableNow](https://github.com/markokokoko/ProjektM346/blob/main/Bilder/VariableNow.png) 
 
-Kann zum Beispiel zu folgenden Namen geändert werden, ohne dass es Einfluss auf das Ausführen des Skriptes hat (Ausser die Ausgabe des Skriptes). 
+Es kann zum Beispiel zu folgenden Namen geändert werden, ohne dass es Einfluss auf das Ausführen des Skriptes hat (Ausser die Ausgabe des Skriptes). 
 
 ![VariableAfter](https://github.com/markokokoko/ProjektM346/blob/main/Bilder/VaribaleAfter.png)
 
