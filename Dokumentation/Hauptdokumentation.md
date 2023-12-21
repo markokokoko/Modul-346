@@ -10,7 +10,7 @@
 
 ## Anleitung zur Ausführung des Skriptes 
 
-Um zu erfahren, wie das Skript nun ausgeführt wird, ist unter: [Anleitung](https://github.com/markokokoko/ProjektM346/blob/main/Dokumentation/Anleitung_Ausfuehren_Skript.md) Schritt für Schritt erklärt, wie man vorgehen soll. 
+Um zu erfahren, wie das Skript nun ausgeführt wird, ist in der [Anleitung](https://github.com/markokokoko/ProjektM346/blob/main/Dokumentation/Anleitung_Ausfuehren_Skript.md) Schritt für Schritt erklärt, wie man vorgehen soll. 
 
  
 
