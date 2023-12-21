@@ -107,3 +107,7 @@ Wenn das Skript zu lange nach Namen sucht, kann es sein, dass bereits zu viele B
 -	#### Keine Fehlerbehebung konnte helfen 
 
 Falls keine der oberen genannten Punkte helfen kann, wäre es Sinnvoll WSL neu zu starten oder direkt einen Neustart des Gerätes durchzuführen. (Hat in unserem Falle funktioniert) 
+
+## Reflexionen 
+
+Die Persönlichen Reflexionen sind unter dem File [Reflexionen](https://github.com/markokokoko/ProjektM346/blob/main/Dokumentation/reflexionen.md) verfügbar. 
