@@ -9,8 +9,6 @@
 
  
 
- 
-
 ## Anleitung zur Ausführung des Skriptes 
 
 Um zu erfahren, wie das Skript nun ausgeführt wird, ist unter: [Anleitung](https://github.com/markokokoko/ProjektM346/blob/main/Dokumentation/Anleitung_Ausfuehren_Skript.md) Schritt für Schritt erklärt, wie man vorgehen soll. 
@@ -43,6 +41,17 @@ Es kann zum Beispiel zu folgenden Namen geändert werden, ohne dass es Einfluss 
 
 ### Grösse der verkleinerten Bilder bestimmen 
 
-In dem Skript  
+In dem File [Index]
+
+https://github.com/markokokoko/ProjektM346/blob/main/Codes/Index.py) gibt es eine Variable «size». Mithilfe dieser Variable, kann man eine bestimmte Grösse festlegen.  
+[IndexAnpassen]
+(https://github.com/markokokoko/ProjektM346/blob/main/Bilder/Index.png) 
+
+#### Anmerkung 
+
+Es ist zu beachten, dass das Seitenverhältnis des Bildes bestehen bleibt und nicht verändert wird.
+
+## Tests 
+
 
  
