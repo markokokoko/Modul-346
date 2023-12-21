@@ -80,7 +80,7 @@ Es kann sein, dass beim Versuch sich mit AWS zu verbinden folgende Fehlermeldung
 
  
 
-Falls diese Fehlermeldung auftaucht, deutet es darauf hin, dass das credentials File und/oder der Session Token nicht mehr aktuell ist. Dadurch kann keine Verbindung zu AWS erstellt werden.
+Falls diese Fehlermeldung auftaucht, deutet es darauf hin, dass das credentials File und/oder der Session Token nicht mehr aktuell ist. 
 
  
 
