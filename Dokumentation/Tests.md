@@ -1,7 +1,7 @@
-## Tests
+# Tests
 In diesem Abschnitt werden alle Schritte getestet und dokumentiert. 
 
-# Verbindung zu AWS überprüfen
+## Verbindung zu AWS überprüfen
 "aws s3 ls" werden deine bereits erstellen Buckets etc. angezeigt ist die Verbindung erfolgreich.
 [AWSverbindung]( https://github.com/markokokoko/Projekt-Modul-346/blob/main/Bilder/AWSverbindung.png)
 
@@ -38,5 +38,5 @@ Original:
 Verkleinert:
 ![Verkleinert](https://github.com/markokokoko/ProjektM346/blob/main/Bilder/VerkleinertBild.png)
 
-# Schlussfolgerung:
+## Schlussfolgerung:
 Das Ausführen des Skriptes hat einwandfrei funktioniert. Das Original Bild wurde ohne Fehlermeldungen oder Probleme ausgeführt
