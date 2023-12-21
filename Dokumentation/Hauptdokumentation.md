@@ -1,16 +1,11 @@
 ## Inhalt 
 
-Anleitung zur Ausführung des Skriptes 
-
-Skript benutzerdefiniert anpassen 
-
-Tests  
-
-Mögliche Fehler  
-
-Reflexionen  
-
-Nützliche Infos  
+- Anleitung zur Ausführung des Skriptes 
+- Skript benutzerdefiniert anpassen 
+- Tests  
+- Mögliche Fehler  
+- Reflexionen  
+- Nützliche Infos  
 
  
 
@@ -28,13 +23,15 @@ Die Namen der Buckets  und der Lambda Funktion können im Skript (create.sh) ang
 
  
 
-### Bucket1original: Dies ist der Bucket, in welchem das Bild in originaler Bildgrösse hochgeladen wird. 
+### Bucket1original:
+Dies ist der Bucket, in welchem das Bild in originaler Bildgrösse hochgeladen wird. 
 
-### Bucket2original: Dies ist der Bucket, in welchem das verkleinerte Bild hochgeladen wird.  
+### Bucket2original:
+Dies ist der Bucket, in welchem das verkleinerte Bild hochgeladen wird.  
 
-### functionNameoriginal: Der Variable Name der Lambda Funktion, kann ebenfalls angepasst werden. 
+### functionNameoriginal:
+Der Variable Name der Lambda Funktion, kann ebenfalls angepasst werden. 
 
- 
 
 ![VariableNow]( ProjektM346/Bilder/VariableNow.png at main · markokokoko/ProjektM346 (github.com)) 
 
