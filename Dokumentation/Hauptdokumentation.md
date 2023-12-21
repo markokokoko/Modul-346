@@ -52,7 +52,7 @@ https://github.com/markokokoko/ProjektM346/blob/main/Codes/Index.py) gibt es ein
 Es ist zu beachten, dass das Seitenverhältnis des Bildes bestehen bleibt und nicht verändert wird.
 
 
-### Tests 
+## Tests 
 
 Die durchgeführten Tests sind in folgendem File beschrieben und erklärt: [Tests]( https://github.com/markokokoko/ProjektM346/blob/main/Dokumentation/Tests.md) 
 
