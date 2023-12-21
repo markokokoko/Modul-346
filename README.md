@@ -1,4 +1,4 @@
-# Projekt Modul 346
+# Projektarbeit-Modul-346
 
 ## Übersicht 
 Das ist das erstellte Repository von Ramsauer Roman, Kojic Marko und Babic Anel.
