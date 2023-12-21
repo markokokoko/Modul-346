@@ -41,11 +41,8 @@ Es kann zum Beispiel zu folgenden Namen geändert werden, ohne dass es Einfluss 
 
 ### Grösse der verkleinerten Bilder bestimmen 
 
-In dem File [Index]
-
-https://github.com/markokokoko/ProjektM346/blob/main/Codes/Index.py) gibt es eine Variable «size». Mithilfe dieser Variable, kann man eine bestimmte Grösse festlegen.  
-[IndexAnpassen]
-(https://github.com/markokokoko/ProjektM346/blob/main/Bilder/Index.png) 
+In dem File [Index](https://github.com/markokokoko/ProjektM346/blob/main/Codes/Index.py) gibt es eine Variable «size». Mithilfe dieser Variable, kann man eine bestimmte Grösse festlegen.  
+![IndexAnpassen](https://github.com/markokokoko/ProjektM346/blob/main/Bilder/Index.png) 
 
 #### Anmerkung 
 
