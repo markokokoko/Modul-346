@@ -11,7 +11,7 @@ es eine Anleitung unter folgendem Link: [Anleitung](https://gbssg.gitlab.io/m346
 ![Zip_Herunterladen_1]( https://github.com/markokokoko/Projekt-Modul-346/blob/main/Bilder/Zip_Herunterladen_1.png)
 ![Zip_Herunterladen_2]( https://github.com/markokokoko/Projekt-Modul-346/blob/main/Bilder/Zip_herunterladen_2.png)
 
-4. 	Als vierter Schritt, muss man nun das File «create.sh» ausführen, wodurch dann die Buckets etc. erstellt werden und das Testbild verkleinert wird. 
+4. 	Als vierter Schritt, muss man nun das File «create1.sh» ausführen, wodurch dann die Buckets etc. erstellt werden und das Testbild verkleinert wird. 
 
 Es ist zu beachten, dass man nach dem herunterladen der Datei, die Datei extrahieren muss. Danach wechselt man mithilfe von «cd» in das entsprechende Verzeichnis, indem sich das Skript befindet:
 ##### Cd /mnt/c/users/benutzername/downloads/ProjektM346-main/Projekt346-main/codes
