@@ -4,7 +4,8 @@
 - Skript benutzerdefiniert anpassen 
 - Tests  
 - Mögliche Fehler  
-- Reflexionen   
+- Reflexionen
+- Fazit  
 
  
 
