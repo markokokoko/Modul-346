@@ -112,3 +112,6 @@ Falls keine der oberen genannten Punkte helfen kann, wäre es Sinnvoll WSL neu z
 ## Reflexionen 
 
 Die Persönlichen Reflexionen sind unter dem File [Reflexionen](https://github.com/markokokoko/ProjektM346/blob/main/Dokumentation/reflexionen.md) verfügbar. 
+
+## Fazit 
+
