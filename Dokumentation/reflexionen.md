@@ -22,7 +22,13 @@ Müsste Ich solch ein Projekt erneut durchführen, würde ich früher anfangen m
 
 ## <ins>Anel:</ins>
 
-Aus meiner Sicht, war die Zusammenarbeit in der Gruppe während dieses Projektes sehr spannend und hat auch einige neue Erfahrungen mitsich gebracht. Für mich persönlich war diese Arbeit ein Erfolg, das Skripten hat gut funktioniert und die Kommunikation untereinander hat auch gut gepasst. Wir haben unsere Arbeiten sinnvoll aufgeteilt und haben uns bei Problemen gegenseitig geholfen. Jedoch war in unserer Projektarbeit nicht alles perfekt. Wir haben unsere selbst eingeteilten Arbeiten zwar sinnvoll aufgeteilt, jedoch sind wir am letzten Tag unter Zeitdruck geraten. Beim nächsten Mal könnten wir unsere Zeit besser einplanen, um am Schluss einen Zeitdruck zu vermeiden. 
+Aus meiner Sicht war dieses Projekt sehr lehrreich. Ich lernte, wie man mit GitHub arbeitet und dies konsequent anwendet. Wir hatten im Verlaufe der Zeit, die wir zum Erstellen des Projekts zu Verfügung hatten, weitere Projekte. Dies erschwerte uns natürlich diese Arbeit. Eines der anderen Projekte war, eine Dokumentation eines Prozesses meiner Firma zu erstellen. Dies bedeutete automatisch, dass ich meinen Fokus auf das andere Projekt lag. So konnte ich anfangs nicht Vollzeit daran arbeiten und musste Mittendrin damit anfangen. Glücklicherweise haben mich Roman und Marko schnell aufgeklärt, sodass ich mit ihnen anfangen konnte. 
+
+ 
+
+Rückblickend würde ich sagen, dass ich die Zeit hätte besser einplanen sollen. Vor allem wenn man mehrere Projekte gleichzeitig hat, muss man sich die Zeit einfach genau einplanen. Was aber sehr gut lief, war unsere Zusammenarbeit. Bei meinem nächsten Gruppenprojekt werde ich erneut eine gute Kommunikation behalten mit den Mitgliedern und mein Bestes geben, einen Teil des Ganzen beizutragen. 
+
+ 
 
 
 
