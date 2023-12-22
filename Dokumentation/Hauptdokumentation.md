@@ -17,7 +17,7 @@ Um zu erfahren, wie das Skript nun ausgeführt wird, ist in der [Anleitung](http
 
 ## Skript Benutzerdefiniert anpassen 
 
-Die Namen der Buckets  und der Lambda Funktion können im Skript (create.sh) angepasst werden.  
+Die Namen der Buckets  und der Lambdafunktion können im Skript (create.sh) angepasst werden.  
 
  
 
@@ -28,7 +28,7 @@ Dies ist der Bucket, in welchem das Bild in originaler Bildgrösse hochgeladen w
 Dies ist der Bucket, in welchem das verkleinerte Bild hochgeladen wird.  
 
 ### functionNameoriginal:
-Der Variable Name der Lambda Funktion, kann ebenfalls angepasst werden. 
+Der Variable-Name der Lambdafunktion kann ebenfalls angepasst werden. 
 
 
 ![VariableNow](https://github.com/markokokoko/ProjektM346/blob/main/Bilder/VariableNow.png) 
@@ -41,7 +41,7 @@ Es kann zum Beispiel zu folgenden Namen geändert werden, ohne dass es Einfluss 
 
 ### Grösse der verkleinerten Bilder bestimmen 
 
-In dem File [Index](https://github.com/markokokoko/ProjektM346/blob/main/Codes/Index.py) gibt es eine Variable «size». Mithilfe dieser Variable, kann man eine bestimmte Grösse festlegen.  
+In dem File [Index](https://github.com/markokokoko/ProjektM346/blob/main/Codes/Index.py) gibt es eine Variable «size». Mithilfe dieser Variable kann man eine bestimmte Grösse festlegen.  
 ![IndexAnpassen](https://github.com/markokokoko/ProjektM346/blob/main/Bilder/Index.png) 
 
 #### Anmerkung 
@@ -95,7 +95,7 @@ Im Falle, dass das Skript stehen bleibt und nicht mehr weiterläuft, kann es an 
 
 -	#### Klick in die Konsole 
 
-Es kann sein, dass man ausversehen in die Konsole geklickt hat und nun das Skript gestoppt wurde. Durch das klicken des Enter Buttons sollte das Skript wieder weiterlaufen. 
+Es kann sein, dass man aus Versehen in die Konsole geklickt hat und nun das Skript gestoppt wurde. Durch das Klicken des Enter-Buttons sollte das Skript wieder weiterlaufen. 
 
  
 
@@ -107,7 +107,7 @@ Wenn das Skript zu lange nach Namen sucht, kann es sein, dass bereits zu viele B
 
 -	#### Keine Fehlerbehebung konnte helfen 
 
-Falls keine der oberen genannten Punkte helfen kann, wäre es Sinnvoll WSL neu zu starten oder direkt einen Neustart des Gerätes durchzuführen. (Hat in unserem Falle funktioniert) 
+Falls keine der oberen genannten Punkte helfen können, wäre es sinnvoll, WSL neu zu starten oder direkt einen Neustart des Gerätes durchzuführen. (Hat in unserem Falle funktioniert) 
 
 ## Reflexionen 
 
