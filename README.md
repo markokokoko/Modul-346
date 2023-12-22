@@ -23,7 +23,10 @@ Sobald ein Bild in das erste Bucket hochgeladen wird, soll automatisch, z.B. üb
 Dieses Repository enthält folgende Hauptordner:
 
 1.	[Codes](https://github.com/markokokoko/ProjektM346/tree/main/Codes): Der Ordner Codes enthält alle Dateien, die für das Erstellen der Buckets nötig sind.
-    [create1.sh](https://github.com/markokokoko/ProjektM346/blob/main/Codes/create1.sh ): Führt die Buckets, Funktionen und das Hoch- und herunterladen des Bildes)
+    | Code | Funktion |
+  	| ---- | ---- |
+   |[create1.sh](https://github.com/markokokoko/ProjektM346/blob/main/Codes/create1.sh ) | Führt die Buckets, Funktionen und das Hoch- und herunterladen des Bildes) |
+  
     [index.py](https://github.com/markokokoko/ProjektM346/blob/main/Codes/index.py ): Führt die komprimierung auf AWS durch
     [pillow.zip](https://github.com/markokokoko/ProjektM346/blob/main/Codes/pillow.zip ):Ist die Library um die Bilder zu komprimieren.
   	
