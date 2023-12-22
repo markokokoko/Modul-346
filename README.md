@@ -23,6 +23,7 @@ Sobald ein Bild in das erste Bucket hochgeladen wird, soll automatisch, z.B. üb
 Dieses Repository enthält folgende Hauptordner:
 
 1.	[Codes](https://github.com/markokokoko/ProjektM346/tree/main/Codes): Der Ordner Codes enthält alle Dateien, die für das Erstellen der Buckets nötig sind.
+
 | Code | Funktion |
 | ---- | -------- |
 | [create1.sh](https://github.com/markokokoko/ProjektM346/blob/main/Codes/create1.sh ) | Führt die Buckets, Funktionen und das Hoch- und herunterladen des Bildes) |
