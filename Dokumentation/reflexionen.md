@@ -23,3 +23,8 @@ Müsste Ich solch ein Projekt erneut durchführen, würde ich früher anfangen m
 ## <ins>Anel:</ins>
 
 Aus meiner Sicht, war die Zusammenarbeit in der Gruppe während dieses Projektes sehr spannend und hat auch einige neue Erfahrungen mitsich gebracht. Für mich persönlich war diese Arbeit ein Erfolg, das Skripten hat gut funktioniert und die Kommunikation untereinander hat auch gut gepasst. Wir haben unsere Arbeiten sinnvoll aufgeteilt und haben uns bei Problemen gegenseitig geholfen. Jedoch war in unserer Projektarbeit nicht alles perfekt. Wir haben unsere selbst eingeteilten Arbeiten zwar sinnvoll aufgeteilt, jedoch sind wir am letzten Tag unter Zeitdruck geraten. Beim nächsten Mal könnten wir unsere Zeit besser einplanen, um am Schluss einen Zeitdruck zu vermeiden. 
+
+
+
+# Fazit
+In dieser Arbeit haben wir nicht nur viel über GitHub gelernt, sondern auch wertvolle Erfahrungen in der Gruppenarbeit gesammelt. Die anfänglichen Herausforderungen, insbesondere im Umgang mit GitHub, haben wir erfolgreich überwunden. Die Kommunikation und Zusammenarbeit in der Gruppe waren hervoragend, obwohl wir eine mangelhafte Aufgabenzuweisung zu Beginn hatten und über keine GitHub-Kenntnisse verfügten. Rückblickend betrachtet war die Arbeit nicht nur lehrreich, sondern auch wichtig, um das im Unterricht Gelernte zu vertiefen und anzuwenden. Die grösste zeitliche Herausforderung stellte der Code dar, den wir erfolgreich bewältigt haben, auch dank umfassender Anleitungen. Trotz kleinerer Probleme am Anfang empfinden wir das Projekt als persönlichen Erfolg und schätzen die gewonnenen Erfahrungen in der Gruppenarbeit. Für zukünftige Projekte würden wir einen früheren Start und eine regelmässige Aktualisierung des GitHub-Repositories empfehlen, um Zeitdruck zu vermeiden.
