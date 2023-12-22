@@ -2,7 +2,11 @@
 
 
 ## <ins>Marko:</ins>
-Probelem mit GIT/ schwer Code herauszufinden/ schwer Zeitplanung wegen anderen Projekten
+Diese Arbeit hat mir sehr viel Spass zubereitet. Anfangs konnte ich nicht mal einen Ordner erstellten und nun kenne ich mich im github bestens aus. Die Arbeit hatte ihre Höhen und Tiefen, doch wir als Gruppe liesen uns nicht runterkrigen und meisterten jegliche Schwerpunkte.
+Einer dieser Schwerpunkte war, dass wir, wie schon erwähnt, garkeine Kentnisse im github hatten und am Anfang, grösstenteils daran beschäftig waren, uns überhaupt im github rechtzufinden. Den Code und jegliche beitragende Elemente des Projekts, fügten wir zuerst nicht ins github, sondern in eine Worddatei ein. Glücklicherweise hatte ich im Betrieb genügend Zeit, mir Videos und jegliche Anleitungen zum github anzuschauen. Dadurch fand ich mich steigend besser zurecht. Später fing ich an, Dinge in einem "Test-Repository" zu testen. Parallel arbeiteten wir immernoch am Code, der ebenfalls sehr schwierig war zu entwerfen. Glücklicherweise gab es Leute, die zu genau unserem Thema, sämtliche Anleitungen geschrieben hatten. Als wir den Code hatten, ging es für uns sehr leicht weiter. Wir teilten die Aufgaben sinnvoll weiter auf und konnten so, in kurzer Zeit, sehr schnell mit dem Projekt fertig werden.
+
+
+Rückblickend würde ich meinerseits sagen, dass ich mich früher hätte mit dem github beschäftigen sollen. Dazu hätten wir uns als Gruppe, von Anfang an die Aufgaben zuteilen müssen, um jeglichen Chaos zubeginn zu verhindern. Was ich aber genauso wieder machen würde, wäre die interne Komunikation untereinander und die allgemeine Zusammenarbeit. Die Gruppenarbeit verlief untereinander einwandfrei und es hat ziemlichen Spass gemacht, weil wir auch etwas geschaffen haben, mit unseren eigenen Händen. 
 
 
 
