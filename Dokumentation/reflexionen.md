@@ -13,10 +13,11 @@ Rückblickend würde ich meinerseits sagen, dass ich mich früher mit dem GitHub
 
 ## <ins>Roman:</ins>
 
-Ich habe das Projekt als sehr wichtig empfunden, da ich alles was wir in den Lektionen angeschaut habe, durch das Projekt wieder repetiert habe und ich mir die Befehle usw. besser einprägen konnte.
-Am meisten Zeit, haben wir für den Code benötigt, da wir bis anhin noch nie etwas im ähnlichen Stil gecoded haben. Wir konnten jedoch mithilfe Anleitungen und Lernvideos etc. das Skript erfolgreich erstellen. Ebenfalls hatte ich am Anfang ganz kurz ein Problem mit GitHub, da ich bis anhin noch nie mit GitHub gearbeitet habe. Nach kurzer Recherche, war jedoch auch das Erstellen der .md Dateien nicht schwer. Wir konnten unser Code bis zu den letzten Lektionen fertigstellen, jedoch mussten wir noch die Dokumentation fertigstellen, welches jedoch nicht so viel Zeit in Anspruch genommen hat wie ich gedacht habe.
+Ich habe das Projekt als sehr wichtig empfunden, da ich alles, was wir in den Lektionen angeschaut haben, durch das Projekt wieder repetiert habe und ich mir die Befehle usw. besser einprägen konnte.
+Am meisten Zeit, haben wir für den Code benötigt, da wir bis anhin noch nie etwas im ähnlichen Stil gecodet haben. Wir konnten jedoch mithilfe Anleitungen und Lernvideos etc. das Skript erfolgreich erstellen. Ebenfalls hatte ich am Anfang ganz kurz ein Problem mit GitHub, da ich bis anhin noch nie mit GitHub gearbeitet habe. Nach kurzer Recherche war jedoch auch das Erstellen der .md Dateien nicht schwer. Wir konnten unser Code bis zu den letzten Lektionen fertigstellen, jedoch mussten wir noch die Dokumentation fertigstellen, welches jedoch nicht so viel Zeit in Anspruch genommen hat, wie ich gedacht habe.
+ 
+Müsste ich solch ein Projekt erneut durchführen, würde ich früher anfangen mit der Umsetzung. Ebenfalls würde ich beachten, dass das GitHub Repository regelmässig aktualisiert wird.
 
-Müsste Ich solch ein Projekt erneut durchführen, würde ich früher anfangen mit der Umsetzung. Ebenfalls würde ich beachten, dass das GitHub Repository regelmässig aktualisiert wird.
 
 
 
