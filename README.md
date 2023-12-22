@@ -23,16 +23,16 @@ Sobald ein Bild in das erste Bucket hochgeladen wird, soll automatisch, z.B. üb
 Dieses Repository enthält folgende Hauptordner:
 
 1.	[Codes](https://github.com/markokokoko/ProjektM346/tree/main/Codes): Der Ordner Codes enthält alle Dateien, die für das Erstellen der Buckets nötig sind.
-    | Code | Funktion |
-  	| ---- | ---- |
-    | [create1.sh](https://github.com/markokokoko/ProjektM346/blob/main/Codes/create1.sh ) | Führt die Buckets, Funktionen und das Hoch- und herunterladen des Bildes) |
+   | Code | Funktion |
+   | ---- | ---- |
+   | [create1.sh](https://github.com/markokokoko/ProjektM346/blob/main/Codes/create1.sh ) | Führt die Buckets, Funktionen und das Hoch- und herunterladen des Bildes) |
+   | [index.py](https://github.com/markokokoko/ProjektM346/blob/main/Codes/index.py ) | Führt die komprimierung auf AWS durch |
+   | [pillow.zip](https://github.com/markokokoko/ProjektM346/blob/main/Codes/pillow.zip ) | Ist die Library um die Bilder zu komprimieren. |
   
-    [index.py](https://github.com/markokokoko/ProjektM346/blob/main/Codes/index.py ): Führt die komprimierung auf AWS durch
-    [pillow.zip](https://github.com/markokokoko/ProjektM346/blob/main/Codes/pillow.zip ):Ist die Library um die Bilder zu komprimieren.
-  	
-3. 	[Bilder](https://github.com/markokokoko/ProjektM346/tree/main/Bilder): Der Ordner Bilder enthält alle Bilder, welche in dem gesamten Projekt verwendet wurden. (Für Dokumentation, Testbild etc.)
-4.	[Dokumentation](https://github.com/markokokoko/ProjektM346/blob/main/Dokumentation/Hauptdokumentation.md): Der Ordner Dokumentation enthält alle erstellten Dokumentationen inkl. Reflexionen, Aufgabenverteilung, Tests, sowie auch die Hauptdokumentation.
-5.	[Testbild](https://github.com/markokokoko/ProjektM346/tree/main/Testbild): Im Ordner Testbild ist das Testbild abgelegt, welches am Ende jedes Erstellen hochgeladen und wieder heruntergeladen wird.
+    
+2. 	[Bilder](https://github.com/markokokoko/ProjektM346/tree/main/Bilder): Der Ordner Bilder enthält alle Bilder, welche in dem gesamten Projekt verwendet wurden. (Für Dokumentation, Testbild etc.)
+3.	[Dokumentation](https://github.com/markokokoko/ProjektM346/blob/main/Dokumentation/Hauptdokumentation.md): Der Ordner Dokumentation enthält alle erstellten Dokumentationen inkl. Reflexionen, Aufgabenverteilung, Tests, sowie auch die Hauptdokumentation.
+4.	[Testbild](https://github.com/markokokoko/ProjektM346/tree/main/Testbild): Im Ordner Testbild ist das Testbild abgelegt, welches am Ende jedes Erstellen hochgeladen und wieder heruntergeladen wird.
 
 
 
