@@ -108,7 +108,7 @@ Wenn das Skript zu lange nach Namen sucht, kann es sein, dass bereits zu viele B
 
 -	#### Keine Fehlerbehebung konnte helfen 
 
-Falls keine der oberen genannten Punkte helfen können, wäre es sinnvoll, WSL neu zu starten oder direkt einen Neustart des Gerätes durchzuführen. (Hat in unserem Falle funktioniert) 
+Falls keine der oberen genannten Punkte helfen können, wäre es sinnvoll, WSL neu zu starten oder direkt einen Neustart des Gerätes durchzuführen. (Hat in unserem Falle einmal funktioniert) 
 
 ## Reflexionen 
 
