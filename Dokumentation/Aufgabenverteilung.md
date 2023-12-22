@@ -3,7 +3,7 @@
 
 ## <ins>Marko:</ins>
 
-| Aufgabe | Zeitpunkt |
+| Aufgabe | Datum |
 | ------- | --------- |
 | Code erstellen | 15.12.23-19.12.23 |
 | Bei Installation helfen | 20.12.23 |
@@ -11,7 +11,7 @@
 | Rechtschreibung prüfen | 22.12.23 |
 
 ## <ins>Roman:</ins>
-| Aufgabe | Zeitpunkt |
+| Aufgabe | Datum |
 | ------- | --------- |
 | Code erstellen | 15.12.23-19.12.23 |
 | Installation dokumentieren | 21.12.23 |
@@ -20,7 +20,7 @@
 
 
 ## <ins>Anel:</ins>
-| Aufgabe | Zeitpunkt |
+| Aufgabe | Datum |
 | ------- | --------- |
 | Code erstellen | 15.12.23-19.12.23 |
 | Installation dokumentieren | 21.12.23 |
