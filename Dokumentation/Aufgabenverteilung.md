@@ -15,6 +15,7 @@
 | ------- | --------- |
 | Code erstellen | 15.12.23-19.12.23 |
 | Installation dokumentieren | 21.12.23 |
+| Anleitung dokumentieren | 21.12.23 |
 | Tests | 20.12.23-21.12.23|
 
 
@@ -23,4 +24,5 @@
 | ------- | --------- |
 | Code erstellen | 15.12.23-19.12.23 |
 | Installation dokumentieren | 21.12.23 |
+| Anleitung dokumentieren | 21.12.23 |
 | Tests | 20.12.23-21.12.23|
