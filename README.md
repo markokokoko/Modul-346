@@ -24,7 +24,7 @@ Dieses Repository enthält folgende Hauptordner:
 
 1.	[Codes](https://github.com/markokokoko/ProjektM346/tree/main/Codes): Der Ordner Codes enthält alle Dateien, die für das Erstellen der Buckets nötig sind.
 2.	[Bilder](https://github.com/markokokoko/ProjektM346/tree/main/Bilder): Der Ordner Bilder enthält alle Bilder, welche in dem gesamten Projekt verwendet wurden. (Für Dokumentation, Testbild etc.)
-3.	[Dokumentation](https://github.com/markokokoko/ProjektM346/blob/main/Dokumentation/Hauptdokumentation.md): Der Ordner Dokumentation enthält alle erstellten Dokumentationen inkl. Reflexionen und Tests, sowie auch die Hauptdokumentation.
+3.	[Dokumentation](https://github.com/markokokoko/ProjektM346/blob/main/Dokumentation/Hauptdokumentation.md): Der Ordner Dokumentation enthält alle erstellten Dokumentationen inkl. Reflexionen, Aufgabenverteilung, Tests, sowie auch die Hauptdokumentation.
 4.	[Testbild](https://github.com/markokokoko/ProjektM346/tree/main/Testbild): Im Ordner Testbild ist das Testbild abgelegt, welches am Ende jedes Erstellen hochgeladen und wieder heruntergeladen wird.
 
 
