@@ -2,7 +2,7 @@
 In diesem Abschnitt werden alle Schritte getestet und dokumentiert. 
 
 ## Verbindung zu AWS überprüfen ("aws s3 ls")
-Werden deine bereits erstellen Buckets etc. angezeigt ist die Verbindung erfolgreich.
+Werden deine bereits erstellten Buckets etc. angezeigt, ist die Verbindung erfolgreich.
 ![AWSverbindung]( https://github.com/markokokoko/Projekt-Modul-346/blob/main/Bilder/AWSverbindung.png)
 
 
@@ -15,7 +15,7 @@ In diesem Test wird überprüft, ob das Skript vollständig funktioniert:
 
 ![Zip_Herunterladen_2](https://github.com/markokokoko/ProjektM346/blob/main/Bilder/Zip_herunterladen_2.png)
 
-Im Ordner Download ist nun das heruntergelade Repository 
+Im Ordner Download ist nun das heruntergeladene Repository 
 ![ZipDatei]( https://github.com/markokokoko/ProjektM346/blob/main/Bilder/ZipDatei.png)
 
 2.	Als nächster Schritt muss man nun in WSL in das entsprechende Verzeichnis wechseln:
@@ -25,14 +25,14 @@ Im Ordner Download ist nun das heruntergelade Repository
 
 ![Skriptausfuehren](https://github.com/markokokoko/ProjektM346/blob/main/Bilder/Skriptausgefuehrt.png)
 
-Das Skript wurde wie im Bild gezeigt erfolgreich ausgeführt. Um nun zu überprüfen, ob das Bild nun wirklich verkleinert wurde, kann man im Ordner «Testbild» überprüfen ob das verkleinerte Bild erstellt wurde:
+Das Skript wurde wie im Bild gezeigt erfolgreich ausgeführt. Um nun zu überprüfen, ob das Bild nun wirklich verkleinert wurde, kann man im Ordner «Testbild» nachschauen und kontrollieren, ob das verkleinerte Bild erstellt wurde:
 
 ![Uberpruefen](https://github.com/markokokoko/ProjektM346/blob/main/Bilder/Ueberpruefen.png)
 
 Wie man im Ordner sehen kann, wurde das verkleinerte Bild erstellt. Man kann es auch daran erkennen, da das verkleinerte Bild deutlich weniger Speicherkapazität in Anspruch nimmt. 
 
 
-Die Folgende Abbildungen zeigen die beiden Varianten der Bilder auf. (Original und Verkleinert)
+Die folgenden Abbildungen zeigen die beiden Varianten der Bilder auf. (Original und verkleinert)
 Original:
 ![OriginalBild](https://github.com/markokokoko/ProjektM346/blob/main/Bilder/OriginalBild.png)
 
@@ -40,5 +40,5 @@ Verkleinert:
 ![Verkleinert](https://github.com/markokokoko/ProjektM346/blob/main/Bilder/VerkleinertBild.png)
 
 ### Schlussfolgerung:
-Das Ausführen des Skriptes hat einwandfrei funktioniert. Das Original Bild wurde ohne Fehlermeldungen oder Probleme ausgeführt
+Das Ausführen des Skriptes hat einwandfrei funktioniert. Das Originalbild wurde ohne Fehlermeldungen oder Probleme ausgeführt
 
