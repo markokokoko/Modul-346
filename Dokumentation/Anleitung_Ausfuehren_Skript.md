@@ -24,3 +24,6 @@ Um ein benutzerdefiniertes Bild zu verwenden, muss beim heruntergeladenen Reposi
 ![Testbild]( https://github.com/markokokoko/Projekt-Modul-346/blob/main/Bilder/Benutzerdefiniert.png)
 
 Mithilfe dieser Anleitung solltest du nun die Möglichkeit haben, mit dem Skript ein beliebiges Bild zu verkleinern. 
+
+
+--> Zurück zur [Dokumentation](https://github.com/markokokoko/ProjektM346/blob/main/Dokumentation/Hauptdokumentation.md)
