@@ -6,6 +6,8 @@ Die Test wurden von Roman Rmasauer erstellt
 Werden deine bereits erstellten Buckets etc. angezeigt, ist die Verbindung erfolgreich.
 ![AWSverbindung]( https://github.com/markokokoko/Projekt-Modul-346/blob/main/Bilder/AWSverbindung.png)
 
+#### Fazit
+Die Verbindung zu AWS konnte problemlos hergestellt werden. Falls dies nicht der Fall sein würde, sind in der Dokumentation mögliche Fehler dokumentiert und wie man diese beheben kann.
 
 ## Ausführung Skript / 21.12.2023 
 In diesem Test wird überprüft, ob das Skript vollständig funktioniert:
@@ -40,6 +42,11 @@ Original:
 Verkleinert:
 ![Verkleinert](https://github.com/markokokoko/ProjektM346/blob/main/Bilder/VerkleinertBild.png)
 
-### Schlussfolgerung:
-Das Ausführen des Skriptes hat einwandfrei funktioniert. Das Originalbild wurde ohne Fehlermeldungen oder Probleme ausgeführt
+#### Fazit:
+Der Komplete Vorgang hat ohne Fehler einwandfrei Funktioniert. Das Bild im ersten Bucket konnte mithilfe des ausführen des Codes verkleinert werden.
+Falls es in der Ausführung des Skriptes Probleme gibt, sind in der Dokumentation mögliche Ursachen dokumentiert und beschrieben. Ebenfalls wird erklärt, wie diese Probleme behoben werden können. 
+
+
+### Schlussfolgerung 
+Anhand der oberen Test kann man feststellen, dass die Ausführung des Skriptes inkl. allen Faktoren ohne Probleme funktioniert!
 
