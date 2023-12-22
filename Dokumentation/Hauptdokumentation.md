@@ -118,4 +118,9 @@ Die Persönlichen Reflexionen und das Fazit sind unter [Reflexionen](https://git
 
 Die Aufgabenverteilung ist unter [Aufgabenverteilung](https://github.com/markokokoko/ProjektM346/blob/main/Dokumentation/Aufgabenverteilung.md) verfügbar. 
 
+## Quellen
+Folgende Quellen haben wir für die Codes gebraucht:
+https://chat.openai.com/
+https://aws.amazon.com/de/getting-started/hands-on/amazon-s3-object-lambda-to-dynamically-watermark-images/
+https://docs.aws.amazon.com/code-library/latest/ug/bash_2_s3_code_examples.html
 
