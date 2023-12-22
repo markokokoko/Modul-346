@@ -2,5 +2,5 @@
 
 
 ## <ins>Marko:</ins>
-| Aufgabe | Wann |
-| ------- | ---- |
+| Aufgabe | Zeitpunkt |
+| ------- | --------- |
