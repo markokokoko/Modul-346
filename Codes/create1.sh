@@ -1,4 +1,7 @@
 #!/bin/bash
+# Autoren: Marko Kojic, Anel Babic, Roman Ramsauer
+# Datum: 22.12.2023
+# Version: 2.0 
 
 echo " "
 # Überprüfen, ob eine Internetverbindung besteht
