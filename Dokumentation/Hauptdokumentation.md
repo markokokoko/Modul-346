@@ -18,7 +18,7 @@ Um zu erfahren, wie das Skript nun ausgeführt wird, ist in der [Anleitung](http
 
 ## Skript Benutzerdefiniert anpassen 
 
-Die Namen der Buckets  und der Lambdafunktion können im Skript (create.sh) angepasst werden.  
+Die Namen der Buckets  und der Lambdafunktion können im Skript (create1.sh) angepasst werden.  
 
  
 
