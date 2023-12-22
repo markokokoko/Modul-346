@@ -50,3 +50,5 @@ Falls es in der Ausführung des Skriptes Probleme gibt, sind in der Dokumentatio
 ### Schlussfolgerung 
 Anhand der oberen Test kann man feststellen, dass die Ausführung des Skriptes inkl. allen Faktoren ohne Probleme funktioniert!
 
+
+#### -> Zurück zur [Dokumentation](https://github.com/markokokoko/ProjektM346/blob/main/Dokumentation/Hauptdokumentation.md)
