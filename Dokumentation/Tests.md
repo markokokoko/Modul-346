@@ -1,12 +1,13 @@
 # Tests
 In diesem Abschnitt werden alle Schritte getestet und dokumentiert. 
+Die Test wurden von Roman Rmasauer erstellt 
 
-## Verbindung zu AWS überprüfen ("aws s3 ls")
+## Verbindung zu AWS überprüfen ("aws s3 ls") / 21.12.2023 
 Werden deine bereits erstellten Buckets etc. angezeigt, ist die Verbindung erfolgreich.
 ![AWSverbindung]( https://github.com/markokokoko/Projekt-Modul-346/blob/main/Bilder/AWSverbindung.png)
 
 
-## Ausführung Skript
+## Ausführung Skript / 21.12.2023 
 In diesem Test wird überprüft, ob das Skript vollständig funktioniert:
 
 1.	Download vom Repository als Zip-Datei
