@@ -24,8 +24,6 @@ Dieses Repository enthält folgende Hauptordner:
 
 1.	[Codes](https://github.com/markokokoko/ProjektM346/tree/main/Codes): Der Ordner Codes enthält alle Dateien, die für das Erstellen der Buckets nötig sind.
 | Code | Funktion |
-| ---- | ---- |
-| [create1.sh](https://github.com/markokokoko/ProjektM346/blob/main/Codes/create1.sh ) | Führt die Buckets, Funktionen und das Hoch- und herunterladen des Bildes)|
   
     
 3. 	[Bilder](https://github.com/markokokoko/ProjektM346/tree/main/Bilder): Der Ordner Bilder enthält alle Bilder, welche in dem gesamten Projekt verwendet wurden. (Für Dokumentation, Testbild etc.)
