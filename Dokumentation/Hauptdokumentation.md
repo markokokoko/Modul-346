@@ -114,4 +114,8 @@ Falls keine der oberen genannten Punkte helfen können, wäre es sinnvoll, WSL n
 
 Die Persönlichen Reflexionen und das Fazit sind unter [Reflexionen](https://github.com/markokokoko/ProjektM346/blob/main/Dokumentation/reflexionen.md) verfügbar. 
 
+## Aufgabenverteilung
+
+Die Aufgabenverteilung ist unter [Aufgabenverteilung](https://github.com/markokokoko/ProjektM346/blob/main/Dokumentation/Aufgabenverteilung.md) verfügbar. 
+
 
