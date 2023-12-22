@@ -121,6 +121,6 @@ Die Aufgabenverteilung ist unter [Aufgabenverteilung](https://github.com/markoko
 ## Quellen
 Folgende Quellen haben wir für die Codes gebraucht:
 https://chat.openai.com/ | 
-https://aws.amazon.com/de/getting-started/hands-on/amazon-s3-object-lambda-to-dynamically-watermark-images/
+https://aws.amazon.com/de/getting-started/hands-on/amazon-s3-object-lambda-to-dynamically-watermark-images/ | 
 https://docs.aws.amazon.com/code-library/latest/ug/bash_2_s3_code_examples.html
 
