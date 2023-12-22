@@ -26,4 +26,4 @@ Um ein benutzerdefiniertes Bild zu verwenden, muss beim heruntergeladenen Reposi
 Mithilfe dieser Anleitung solltest du nun die Möglichkeit haben, mit dem Skript ein beliebiges Bild zu verkleinern. 
 
 
--> Zurück zur [Dokumentation](https://github.com/markokokoko/ProjektM346/blob/main/Dokumentation/Hauptdokumentation.md)
+#### -> Zurück zur [Dokumentation](https://github.com/markokokoko/ProjektM346/blob/main/Dokumentation/Hauptdokumentation.md)
