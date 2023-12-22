@@ -1,6 +1,6 @@
 # Tests
 In diesem Abschnitt werden alle Schritte getestet und dokumentiert. 
-Die Test wurden von Roman Rmasauer erstellt 
+Die Test wurden von Roman Ramsauer erstellt 
 
 ## Verbindung zu AWS überprüfen ("aws s3 ls") / 21.12.2023 
 Werden deine bereits erstellten Buckets etc. angezeigt, ist die Verbindung erfolgreich.
