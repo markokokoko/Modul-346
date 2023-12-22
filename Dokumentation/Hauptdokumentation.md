@@ -5,7 +5,8 @@
 - Tests  
 - Mögliche Fehler  
 - Reflexionen
-- Fazit  
+- Fazit
+- Aufgabenverteilung  
 
  
 
